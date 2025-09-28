@@ -1,0 +1,1 @@
+First, you need to find your theme file. Copy it over to whatever directory you're in. Then, add the icons to where they are supposed to be. The folders go in 'places' and the other icons go in 'mime'
